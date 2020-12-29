@@ -1915,7 +1915,9 @@ textarea:focus {
     Background Color
 ------------------------------------------*/
 .bg-gray {
-  background-color: #f0f4f6;
+    background: url("../images/bg/IMG_3597.JPG");
+    background-position: center;
+    background-size: cover;
 }
 
 .bg-gray-2 {
@@ -1925,11 +1927,15 @@ textarea:focus {
 }
 
 .bg-gray-3 {
-  background-color: #f9f9f9;
+    background: url("../images/bg/IMG_3597.JPG");
+    background-position: center;
+    background-size: cover;
 }
 
 .bg-gray-4 {
-  background-color: #efefef;
+    background: url("../images/bg/IMG_3597.JPG");
+    background-position: center;
+    background-size: cover;
 }
 
 .bg-gray-5 {
