@@ -1919,7 +1919,9 @@ textarea:focus {
 }
 
 .bg-gray-2 {
-  background-color: #efeeed;
+  background: url("../images/bg/IMG_3597.JPG");
+    background-position: center;
+    background-size: cover;
 }
 
 .bg-gray-3 {
